@@ -41,5 +41,5 @@
 
 最后八千分的交互范例如下，可以看到相比初始固定模型，此时模型已能较快达到悬停。
 
-![image](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/pic/6.)
+![image](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/pic/6.gif)
 
