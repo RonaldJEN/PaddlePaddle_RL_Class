@@ -44,4 +44,4 @@
 ![image](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/pic/6.gif)
 
 ### Medium（若github加载慢,可点击下方链接,需科学上网）
-- [心得](https://medium.com/@cfddbddcd/%E7%99%BE%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1%E8%90%A5%E6%80%BB%E7%BB%93-by%E7%86%8A%E6%9C%AC%E7%86%8A-1a410d8f4b41)
+- [心得](https://medium.com/@cfddbddcd/%E7%99%BE%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1%E8%90%A5%E6%80%BB%E7%BB%93-by%E7%86%8A%E6%9C%AC%E7%86%8A-1a410d8f4b41?source=friends_link&sk=6232c495aef68af77ebd1d3f9267addc)
