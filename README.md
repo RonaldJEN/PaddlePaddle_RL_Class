@@ -12,3 +12,5 @@
     + [Policy Gradient](https://nbviewer.jupyter.org/github/RonaldJEN/PaddlePaddle_RL_Class/blob/master/notebook/lesson4_PG.ipynb)
 + 第五章、连续动作空间上求解RL
     + [DDPG](https://nbviewer.jupyter.org/github/RonaldJEN/PaddlePaddle_RL_Class/blob/master/notebook/lesson5_FinalHW.ipynb)
+
+## 大作业完成心得
