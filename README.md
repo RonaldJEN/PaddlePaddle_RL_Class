@@ -1,5 +1,4 @@
-# PaddlePaddle_RL_Class
-百度AI Studio 强化学习7日打卡营
+# 百度AI Studio 强化学习7日打卡营总结
 ## 课程Notebook
 + 第一章、强化学习介绍
     + [环境搭建](https://nbviewer.jupyter.org/github/RonaldJEN/PaddlePaddle_RL_Class/blob/master/notebook/lesson1_MakeEnv.ipynb)
