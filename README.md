@@ -43,5 +43,6 @@
 
 ![image](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/pic/6.gif)
 
-### Medium（若github加载慢,可点击下方链接,需科学上网）
-- [百度强化学习打卡营心得](https://medium.com/@cfddbddcd/%E7%99%BE%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1%E8%90%A5%E6%80%BB%E7%BB%93-by%E7%86%8A%E6%9C%AC%E7%86%8A-1a410d8f4b41)
+### Medium（若github加载慢,可点击下方链接,需科学上网）or CSDN
+- [百度强化学习打卡营心得-Medium](https://medium.com/@cfddbddcd/%E7%99%BE%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1%E8%90%A5%E6%80%BB%E7%BB%93-by%E7%86%8A%E6%9C%AC%E7%86%8A-1a410d8f4b41)
+- [百度强化学习打卡营心得-CSDN](https://blog.csdn.net/qq_40379019/article/details/106977730)
