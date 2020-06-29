@@ -21,6 +21,7 @@ pip install paddlepaddle-gpu==1.8.2.post107
 pip install parl==1.3.1
 pip install rlschool==0.3.1 
 pip install gym==0.15.4
+pip install -r ../requirements.txt
 ```
 ## 训练 ##
 ```
