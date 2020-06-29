@@ -10,9 +10,17 @@
     + 难度:三星
     + 算法:DDPG
 ## 安装 ##
-```bash
+```
 pip install paddlepaddle-gpu==1.8.2.post107
 pip install parl==1.3.1
 pip install rlschool==0.3.1 
 pip install gym==0.15.4
+```
+## 训练 ##
+```
+#训练BipedalWalkerHardcore-v2
+python star2_train.py
+
+#训练Quadrotor <velocity_control>
+python star3_train.py
 ```
