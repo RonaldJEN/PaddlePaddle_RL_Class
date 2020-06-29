@@ -9,8 +9,7 @@
     + [环境-RLSchool](https://github.com/PaddlePaddle/RLSchool/tree/master/rlschool/quadrotor)
     + 难度:三星
     + 算法:DDPG
-
-##安装##
+## 安装 ##
 ```bash
 pip install paddlepaddle-gpu==1.8.2.post107
 pip install parl==1.3.1
