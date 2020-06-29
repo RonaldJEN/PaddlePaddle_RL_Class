@@ -2,13 +2,13 @@
 ## 复现项目 ##
 - [BipedalWalkerHardcore-v2]
     + [环境-GYM Box2D](https://github.com/openai/gym/tree/07e0c98f8e8e18c5197fab7ff74635f5b0cb2662/gym/envs/box2d)
-    + [难度:二星]
-    + [算法:SAC]
+    + 难度:二星
+    + 算法:SAC
 
 - [Quadrotor <velocity_control>]
     + [环境-RLSchool](https://github.com/PaddlePaddle/RLSchool/tree/master/rlschool/quadrotor)
-    + [难度:三星]
-    + [算法:DDPG]
+    + 难度:三星
+    + 算法:DDPG
 
 ##  ##
 ```bash
