@@ -10,7 +10,7 @@
     + 难度:三星
     + 算法:DDPG
 
-##  ##
+##安装##
 ```bash
 pip install paddlepaddle-gpu==1.8.2.post107
 pip install parl==1.3.1
