@@ -3,7 +3,7 @@
 - [BipedalWalkerHardcore-v2](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/Game_Reproduction/star2_train.py)
     + [环境-GYM Box2D](https://github.com/openai/gym/tree/07e0c98f8e8e18c5197fab7ff74635f5b0cb2662/gym/envs/box2d)
     + [训练日志](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/Game_Reproduction/train_log/star2_train/log.log)
-    + [训练图](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/Game_Reproduction/train_log/star2_train/train_pic.jpeg)
+    + [训练图](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/Game_Reproduction/train_log/star2_train/train_pic.png)
     + [评估图](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/Game_Reproduction/train_log/star2_train/eval_pic.png)
     + [展示效果gif](https://github.com/RonaldJEN/PaddlePaddle_RL_Class/blob/master/Game_Reproduction/train_log/star2_train/2_star.gif)
     + 难度:二星
