@@ -1,4 +1,4 @@
-[33m[06-29 21:19:26 MainThread @visualdl.py:34][0m [5m[33mWRN[0m [VisualDL] logdir is None, will save VisualDL files to train_log/star3_train
+[33m[06-29 21:19:26 MainThread @visualdl.py:34][0m [5m[33mWRN[0m [VisualDL] logdir is None, will save VisualDL files to train_log/star3_train
 View the data using: visualdl --logdir=./train_log/star3_train --host=192.168.0.100
 [32m[06-29 21:19:59 MainThread @star3_train.py:219][0m Steps 1000, Test reward: -412.9227102388742
 [32m[06-29 21:21:32 MainThread @star3_train.py:219][0m Steps 10000, Test reward: -356.1768841638779
@@ -233,3 +233,20 @@ View the data using: visualdl --logdir=./train_log/star3_train --host=192.168.0.
 [32m[06-30 10:40:36 MainThread @star3_train.py:219][0m Steps 2290000, Test reward: -37.110058683407395
 [32m[06-30 10:44:12 MainThread @star3_train.py:219][0m Steps 2300000, Test reward: -47.2891532338258
 [32m[06-30 10:47:53 MainThread @star3_train.py:219][0m Steps 2310000, Test reward: -40.77940256387147
+[32m[06-30 10:51:33 MainThread @star3_train.py:219][0m Steps 2320000, Test reward: -42.02011755873665
+[32m[06-30 10:55:11 MainThread @star3_train.py:219][0m Steps 2330000, Test reward: -44.05195847138812
+[32m[06-30 10:58:49 MainThread @star3_train.py:219][0m Steps 2340000, Test reward: -50.24561094833635
+[32m[06-30 11:02:29 MainThread @star3_train.py:219][0m Steps 2350000, Test reward: -39.83717049308275
+[32m[06-30 11:06:10 MainThread @star3_train.py:219][0m Steps 2360000, Test reward: -43.37422827003438
+[32m[06-30 11:09:46 MainThread @star3_train.py:219][0m Steps 2370000, Test reward: -42.16915893095307
+[32m[06-30 11:13:22 MainThread @star3_train.py:219][0m Steps 2380000, Test reward: -39.865375542097965
+[32m[06-30 11:16:53 MainThread @star3_train.py:219][0m Steps 2390000, Test reward: -39.9587449310774
+[32m[06-30 11:20:22 MainThread @star3_train.py:219][0m Steps 2400000, Test reward: -42.3931981843433
+[32m[06-30 11:23:50 MainThread @star3_train.py:219][0m Steps 2410000, Test reward: -36.87989437030729
+[32m[06-30 11:27:22 MainThread @star3_train.py:219][0m Steps 2420000, Test reward: -31.057467005733354
+[32m[06-30 11:30:52 MainThread @star3_train.py:219][0m Steps 2430000, Test reward: -29.8277955230189
+[32m[06-30 11:34:20 MainThread @star3_train.py:219][0m Steps 2440000, Test reward: -30.31832719637643
+[32m[06-30 11:37:49 MainThread @star3_train.py:219][0m Steps 2450000, Test reward: -29.00592571062923
+[32m[06-30 11:41:19 MainThread @star3_train.py:219][0m Steps 2460000, Test reward: -26.373908142155063
+[32m[06-30 11:44:48 MainThread @star3_train.py:219][0m Steps 2470000, Test reward: -24.386414733649012
+[32m[06-30 11:48:16 MainThread @star3_train.py:219][0m Steps 2480000, Test reward: -25.450809559697053
