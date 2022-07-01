@@ -7,7 +7,7 @@ Markdown==3.1.1
 matplotlib==2.2.4
 numpy==1.17.3
 opencv-python==4.1.1.26
-openpyxl==2.3.2
+openpyxl==2.4.2
 paddlepaddle==1.8.2
 paddlepaddle-gpu==1.8.2.post107
 pandas==0.24.2
